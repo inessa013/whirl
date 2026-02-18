@@ -13,5 +13,3 @@ Figma desing link: https://www.figma.com/design/0PG1gaVMbmQzjDEwqyCJzZ/Whirl?nod
 - BEM methodology
 - JavaScript base
 
-## Look
-https://inessa013.github.io/whirl/
