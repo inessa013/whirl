@@ -759,11 +759,13 @@ html, body {
     margin-block: 6px ;
 }
 
-.footer__copyright-social li {
+.footer__copyright-social svg {
     width: 22px;
     height: 23px;
+    fill: #000;
+    transition:fill .3s;
 }
 
-.footer__copyright-social li img {
-    width: 100%;
+.footer__copyright-social svg:hover {
+    fill: var(--color-accent);
 }
